@@ -1,6 +1,6 @@
 # React Phonebook Test
 
-## I  HAVE ATTACHED NOTES ON ANSWERS.md file
+## I have attached notes on AnswerNotes.md file
  
 
 ## Intro
