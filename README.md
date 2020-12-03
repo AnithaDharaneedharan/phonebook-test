@@ -1,6 +1,6 @@
 # React Phonebook Test
 
-## I have attached notes on AnswerNotes.md file
+## I have attached notes on https://github.com/AnithaDharaneedharan/phonebook-test/blob/master/AnswerNotes.md
  
 
 ## Intro
