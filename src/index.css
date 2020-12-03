@@ -1,0 +1,75 @@
+body {
+	font-family: sans-serif;
+	font-size: 1.2em;
+	background-color: #f2f2f2;
+	color:#333;
+	text-align: center;
+}
+input, button {
+	font-size: 1.5em;
+	padding:.25em .5em;
+	border:none;
+	border-radius: .3em;
+}
+
+input {
+	background-color: white;
+	margin-right: .5em;
+}
+button {
+	background-color: #333;
+	color:white;
+}
+.app-wrapper {
+	width:30em;
+	max-width: 100%;
+	padding: 2em 0;
+	margin: 0 auto;
+}
+
+.search-box {
+	margin-bottom: 1em;
+}
+
+.contact-details, .results {
+	padding: 1em;
+	background: white;
+	border-radius: 1em;
+}
+
+h1, h2 {
+	text-align: center;
+	margin-top: 0;
+	margin-bottom: 1em;
+}
+
+a {
+	text-decoration: none;
+	color: inherit;
+}
+
+ol {
+	list-style: none;
+	padding: 0;
+}
+ol li {
+	margin-bottom: .5em;
+}
+ol li a {
+	display: block;
+	background-color: #444;
+	border-radius: .5rem;
+	color: white;
+	padding: .5em;
+}
+dl {
+	text-align:left;
+}
+dt {
+	font-weight: bold;
+	float:left;
+	padding-right:1em;
+}
+dd {
+	clear:right;
+}
