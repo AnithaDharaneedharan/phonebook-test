@@ -1,5 +1,8 @@
 # React Phonebook Test
 
+## I  HAVE ATTACHED NOTES ON ANSWERS.md file
+ 
+
 ## Intro
 
 This is a very simple React app that allows you to filter and view peoples contact details. All the data for the contacts is currently hardcoded on the clientside.
